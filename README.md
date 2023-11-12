@@ -18,7 +18,6 @@
   </p>
         <ul>
             <li>- 👨‍💻 All of my projects are available at My <a href="https://portfolio-of-mdhasankha.web.app/">Portfolio</a></li>
-            <li>- 📫 How to reach me **mdhasankha.wd@gamil.com**</li>
             <li>- 📄 Know about my experiences With My <a href="https://drive.google.com/file/d/1ODOvvDFufQbkT_1vjqXqs2ECbXPY88Vn/view?usp=sharing">Resume</a></li>            
         </ul>
     </div>
