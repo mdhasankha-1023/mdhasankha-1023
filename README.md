@@ -13,12 +13,7 @@
         <br>
   <p>
     <strong>
-                A MERN Stack Developer. My main focus is on creating great web experiences.
-                Equipped with a strong foundation in front-end development and a thirst for
-                learning, I'm eager to contribute my skills and enthusiasm to a dynamic team.
-                I enjoy creating beautifully designed, intuitive, and functional websites. 
-                Over the past 6 months, I have been working on web development and web design.
-                Therefore, I hope to have the opportunity to work with you.<br><br>
+                Experienced MERN Stack developer with a deep passion for contributing to open-source projects. Actively shaping the                   digital landscape through meaningful contributions on GitHub, ranging from meticulous bug fixing to innovative                        feature development and comprehensive documentation improvements. Proficient in a diverse range of technologies,                      including HTML, CSS, Tailwind, JavaScript, React, Node.js, Express, and MongoDB. Committed to the collaborative                       spirit of the developer community, I bring both skill and dedication to every project I engage with.<br><br>
     </strong>
   </p>
         <ul>
