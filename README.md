@@ -1,4 +1,3 @@
-![logo](https://github.com/mdhasankhan-123/mdhasankhan-123/blob/master/github_banner.png)
 <h1 align="center">Hi 👋, I'm <a href="https://portfolio-f9c1b.firebaseapp.com/">Hasan kha</a></h1>
  <div align=center>
         <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=50&lines=A+MERN+Stack+web+Developer;A+Front+End+web+developer;From+Bangladesh;" alt="Headline" />
