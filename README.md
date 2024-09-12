@@ -11,9 +11,7 @@
 <div align=left>
         <br>
   <p>
-    <strong>
-                Experienced MERN Stack developer with a deep passion for contributing to open-source projects. Actively shaping the                   digital landscape through meaningful contributions on GitHub, ranging from meticulous bug fixing to innovative                        feature development and comprehensive documentation improvements. Proficient in a diverse range of technologies,                      including HTML, CSS, Tailwind, JavaScript, React, Node.js, Express, and MongoDB. Committed to the collaborative                       spirit of the developer community, I bring both skill and dedication to every project I engage with.<br><br>
-    </strong>
+    <strong>Experienced MERN Stack developer with a deep passion for contributing to open-source projects. Actively shaping the digital landscape through meaningful contributions on GitHub, ranging from meticulous bug fixing to innovative feature development and comprehensive documentation improvements. Proficient in a diverse range of technologies, including HTML, CSS, Tailwind, JavaScript, React, Node.js, Express, and MongoDB. Committed to the collaborative spirit of the developer community, I bring both skill and dedication to every project I engage with.</strong>
   </p>
         <ul>
             <li>- 👨‍💻 All of my projects are available at My <a href="https://mdhasankha.netlify.app/">Portfolio</a></li>
@@ -72,7 +70,3 @@
                     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"
                     alt="mongodb" width="40" height="40" /> 
             </a></p>
-
-  <p><img align="center"
-                src="https://github-readme-stats.vercel.app/api/top-langs?username=mdhasankhan-123&show_icons=true&locale=en&layout=compact"
-                alt="mdhasankhan-123" /></p>
