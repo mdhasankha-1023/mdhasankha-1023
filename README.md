@@ -16,8 +16,8 @@
     </strong>
   </p>
         <ul>
-            <li>- 👨‍💻 All of my projects are available at My <a href="https://portfolio-of-mdhasankha.web.app/">Portfolio</a></li>
-            <li>- 📄 Know about my experiences With My <a href="https://drive.google.com/file/d/1ODOvvDFufQbkT_1vjqXqs2ECbXPY88Vn/view?usp=sharing">Resume</a></li>            
+            <li>- 👨‍💻 All of my projects are available at My <a href="https://mdhasankha.netlify.app/">Portfolio</a></li>
+            <li>- 📄 Know about my experiences With My <a href="https://drive.google.com/file/d/18jZldEhBf0r2dMbEQGK-8L4SNAzVd7ka/view?usp=sharing">Resume</a></li>            
         </ul>
     </div>
 <h3 align="left">Connect with me:</h3>
